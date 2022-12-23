@@ -327,7 +327,7 @@ public class TicTacToe_s extends javax.swing.JFrame {
         jlblPlayerX.setBackground(new java.awt.Color(204, 255, 204));
         jlblPlayerX.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         jlblPlayerX.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jlblPlayerX.setText("jlblPlayerX");
+        jlblPlayerX.setText("0");
         jPanel8.add(jlblPlayerX, java.awt.BorderLayout.CENTER);
 
         jPanel3.add(jPanel8);
@@ -387,7 +387,7 @@ public class TicTacToe_s extends javax.swing.JFrame {
         jlblPlayerO.setBackground(new java.awt.Color(204, 255, 204));
         jlblPlayerO.setFont(new java.awt.Font("Times New Roman", 1, 18)); // NOI18N
         jlblPlayerO.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jlblPlayerO.setText("jlblPlayerO");
+        jlblPlayerO.setText("0");
         jPanel13.add(jlblPlayerO, java.awt.BorderLayout.CENTER);
 
         jPanel3.add(jPanel13);
